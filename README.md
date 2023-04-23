@@ -1,1 +1,0 @@
-# zhurekbay.github.io
