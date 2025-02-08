@@ -1,1 +1,2 @@
-# zhurekbay.github.io
+ISRM Endterm
+Risk Calculator
